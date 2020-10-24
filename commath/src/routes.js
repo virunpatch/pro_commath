@@ -13,7 +13,7 @@ const routes = [{
         element: < Main / > ,
     },
     {
-        path: "cmpj",
+        path: "pro_commath",
         element: < Main / > ,
     },
     {
